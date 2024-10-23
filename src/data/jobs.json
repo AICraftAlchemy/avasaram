@@ -1,0 +1,91 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Full Stack Developer",
+      "company": "TechCorp Solutions",
+      "location": "Hyderabad, India (Hybrid)",
+      "type": "Full-time",
+      "experienceLevel": 5,
+      "salaryRange": [2500000, 4000000],
+      "description": "Join our innovative team as a Senior Full Stack Developer to work on cutting-edge projects using modern technologies.",
+      "requirements": [
+        "8+ years of experience in web development",
+        "Strong proficiency in React, Node.js, and TypeScript",
+        "Experience with cloud platforms (AWS/Azure)",
+        "Knowledge of microservices architecture",
+        "Strong problem-solving skills"
+      ],
+      "benefits": [
+        "Competitive salary package",
+        "Flexible work arrangements",
+        "Comprehensive health insurance",
+        "Annual performance bonus",
+        "Professional development budget"
+      ],
+      "skills": ["React", "Node.js", "TypeScript", "AWS", "MongoDB"],
+      "postedDate": "2024-03-15",
+      "companySize": "500-1000",
+      "industry": "Technology",
+      "applyUrl": "https://example.com/apply/1"
+    },
+    {
+      "id": 2,
+      "title": "Lead UI/UX Designer",
+      "company": "Creative Minds Tech",
+      "location": "Hyderabad, India",
+      "type": "Full-time",
+      "experienceLevel": 4,
+      "salaryRange": [1800000, 3000000],
+      "description": "Lead our design team in creating beautiful and intuitive user experiences for enterprise clients.",
+      "requirements": [
+        "6+ years of UI/UX design experience",
+        "Proficiency in Figma and Adobe Creative Suite",
+        "Strong portfolio showcasing web and mobile designs",
+        "Experience with design systems",
+        "Team leadership experience"
+      ],
+      "benefits": [
+        "Comprehensive health coverage",
+        "Flexible working hours",
+        "Modern workspace",
+        "Design conference allowance",
+        "Stock options"
+      ],
+      "skills": ["Figma", "Adobe XD", "Sketch", "User Research", "Design Systems"],
+      "postedDate": "2024-03-14",
+      "companySize": "100-500",
+      "industry": "Design",
+      "applyUrl": "https://example.com/apply/2"
+    },
+    {
+      "id": 3,
+      "title": "DevOps Engineer",
+      "company": "CloudTech Solutions",
+      "location": "Hyderabad, India (Remote)",
+      "type": "Full-time",
+      "experienceLevel": 4,
+      "salaryRange": [2000000, 3500000],
+      "description": "Join our DevOps team to build and maintain scalable cloud infrastructure.",
+      "requirements": [
+        "5+ years of DevOps experience",
+        "Strong knowledge of AWS/Azure",
+        "Experience with Kubernetes and Docker",
+        "CI/CD pipeline expertise",
+        "Infrastructure as Code"
+      ],
+      "benefits": [
+        "Competitive salary",
+        "Remote work",
+        "Health insurance",
+        "Learning allowance",
+        "Stock options"
+      ],
+      "skills": ["AWS", "Kubernetes", "Docker", "Jenkins", "Terraform"],
+      "postedDate": "2024-03-13",
+      "companySize": "200-500",
+      "industry": "Technology",
+      "applyUrl": "https://example.com/apply/3"
+    }
+  ]
+}
